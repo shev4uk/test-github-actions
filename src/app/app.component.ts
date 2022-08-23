@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Deploy angular to github action';
+  title = 'Deploy angular to github action 2';
 }
